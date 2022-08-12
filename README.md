@@ -36,4 +36,7 @@ This repository displays the Python code for downloading all current jobs from [
 ![Imgur](https://imgur.com/v6ECg68.jpg)
     * Invalid postal codes
 ![Imgur](https://imgur.com/mB9IYpj.jpg)
-
+## What else could we do?
+* Find misspellings in job descriptions.
+* Generate thematic, interactive maps and host them online (e.g., a dashboard).
+* Analyze the text in job descriptions, extracting metrics such as the most frequently used words.
