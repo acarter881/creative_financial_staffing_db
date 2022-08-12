@@ -28,3 +28,12 @@ This repository displays the Python code for downloading all current jobs from [
 ![Imgur](https://imgur.com/fZ8Ncep.jpg)
 * Output from `basic_map.py`
 ![Imgur](https://imgur.com/zeRkwT7.jpg)
+* Find HTTP 404s (i.e., links to jobs that are no longer valid)
+![Imgur](https://imgur.com/FWgnWjd.jpg)
+* Find errors within the job description or job's metadata
+    * Salary irregularities
+![Imgur](https://imgur.com/Yb1KAT4.jpg)
+![Imgur](https://imgur.com/v6ECg68.jpg)
+    * Invalid postal codes
+![Imgur](https://imgur.com/mB9IYpj.jpg)
+
